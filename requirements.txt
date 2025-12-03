@@ -1,0 +1,8 @@
+requests
+opencv-python
+# gstreamer-python
+onvif-zeep
+asyncio
+aiohttp
+pydantic
+loguru

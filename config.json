@@ -1,0 +1,28 @@
+{
+  "shinobi": {
+    "base_url": "http://localhost:8080",
+    "api_key": "your_api_key_here",
+    "group_key": "your_group_key_here"
+  },
+  "cameras": [
+    {
+      "id": "cam1",
+      "name": "Camera 1",
+      "rtsp_url": "rtsp://username:password@camera_ip:554/stream",
+      "onvif_url": "http://camera_ip:80/onvif/device_service",
+      "username": "admin",
+      "password": "password"
+    }
+  ],
+  "recording": {
+    "base_dir": "./recordings",
+    "segment_duration": 60,
+    "pre_event_buffer": 60,
+    "post_event_duration": 60
+  },
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8554,
+    "max_streams": 16
+  }
+}

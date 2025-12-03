@@ -1,0 +1,30 @@
+2025-12-02 15:57:56.267 | INFO     | __main__:start_server:273 - Starting Camera Server...
+2025-12-02 15:57:56.274 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xffffb6533400>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-02 15:57:56.274 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-02 15:57:56.274 | INFO     | __main__:start_server:290 - Camera server started with 0 cameras
+2025-12-02 15:57:56.275 | INFO     | __main__:stop_server:310 - Camera server stopped
+2025-12-02 16:08:31.115 | INFO     | __main__:start_server:274 - Starting Camera Server...
+2025-12-02 16:08:31.122 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xffff816d8430>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-02 16:08:31.123 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-02 16:08:31.123 | INFO     | __main__:start_server:291 - Camera server started with 0 cameras
+2025-12-02 16:08:31.123 | INFO     | __main__:stop_server:311 - Camera server stopped
+2025-12-02 16:09:12.010 | INFO     | __main__:start_server:274 - Starting Camera Server...
+2025-12-02 16:09:12.034 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xffffaa5d43d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-02 16:09:12.035 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-02 16:09:12.036 | INFO     | __main__:start_server:291 - Camera server started with 0 cameras
+2025-12-02 16:09:12.036 | INFO     | __main__:stop_server:311 - Camera server stopped
+2025-12-02 16:16:42.761 | INFO     | __main__:start_server:274 - Starting Camera Server...
+2025-12-02 16:16:42.770 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xffff9c5a33a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-02 16:16:42.770 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-02 16:16:42.771 | INFO     | __main__:start_server:291 - Camera server started with 0 cameras
+2025-12-02 16:16:42.771 | INFO     | __main__:stop_server:311 - Camera server stopped
+2025-12-02 17:01:17.673 | INFO     | __main__:start_server:274 - Starting Camera Server...
+2025-12-02 17:01:17.699 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: 404 Client Error: Not Found for url: http://localhost:8080/api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here
+2025-12-02 17:01:17.700 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-02 17:01:17.700 | INFO     | __main__:start_server:291 - Camera server started with 0 cameras
+2025-12-02 17:01:17.701 | INFO     | __main__:stop_server:311 - Camera server stopped
+2025-12-02 18:17:50.600 | INFO     | __main__:start_server:274 - Starting Camera Server...
+2025-12-02 18:17:50.608 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xffff82be2340>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-02 18:17:50.609 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-02 18:17:50.609 | INFO     | __main__:start_server:291 - Camera server started with 0 cameras
+2025-12-02 18:17:50.610 | INFO     | __main__:stop_server:311 - Camera server stopped
