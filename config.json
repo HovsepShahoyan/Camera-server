@@ -1,17 +1,25 @@
 {
   "shinobi": {
     "base_url": "http://localhost:8080",
-    "api_key": "your_api_key_here",
-    "group_key": "your_group_key_here"
+    "api_key": "REPLACE_WITH_YOUR_REAL_API_KEY",
+    "group_key": "REPLACE_WITH_YOUR_REAL_GROUP_KEY"
   },
   "cameras": [
     {
       "id": "cam1",
-      "name": "Camera 1",
-      "rtsp_url": "rtsp://username:password@camera_ip:554/stream",
-      "onvif_url": "http://camera_ip:80/onvif/device_service",
+      "name": "Camera 1 - Port 3333",
+      "rtsp_url": "rtsp://admin:Aragats777@192.168.0.21:3333/stream",
+      "onvif_url": "http://192.168.0.104:8080/onvif/device_service",
       "username": "admin",
-      "password": "password"
+      "password": "Aragats777"
+    },
+    {
+      "id": "cam2",
+      "name": "Camera 2 - Port 1111",
+      "rtsp_url": "rtsp://admin:Aragats777@192.168.0.21:1111",
+      "onvif_url": "http://192.168.0.104:8080/onvif/device_service",
+      "username": "admin",
+      "password": "Aragats777"
     }
   ],
   "recording": {
@@ -22,7 +30,7 @@
   },
   "server": {
     "host": "0.0.0.0",
-    "port": 8554,
+    "port": 8555,
     "max_streams": 16
   }
 }

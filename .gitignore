@@ -1,0 +1,43 @@
+# Python cache and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv*/
+env*/
+.venv/
+ENV/
+env/
+venv/
+.venv/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+camera_server.log
+
+# Recordings and output
+recordings/
+*.mp4
+*.json
+
+# Shinobi videos (if downloaded)
+videos/
+*.mp4
+
+# Test and temp files
+*.tmp
+*.bak
+
+# Ignore config secrets (uncomment if needed)
+# config.json

@@ -28,3 +28,264 @@
 2025-12-02 18:17:50.609 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
 2025-12-02 18:17:50.609 | INFO     | __main__:start_server:291 - Camera server started with 0 cameras
 2025-12-02 18:17:50.610 | INFO     | __main__:stop_server:311 - Camera server stopped
+2025-12-04 15:22:05.461 | INFO     | __main__:start_server:328 - Starting Camera Server...
+2025-12-04 15:22:05.462 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7c49797068a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 15:22:05.462 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 15:22:05.462 | INFO     | __main__:start_server:348 - HTTP server started on 0.0.0.0:8555
+2025-12-04 15:22:05.462 | INFO     | __main__:start_server:351 - Camera server started with 0 cameras
+2025-12-04 15:22:05.462 | INFO     | __main__:stop_server:372 - Camera server stopped
+2025-12-04 15:24:10.080 | INFO     | __main__:start_server:328 - Starting Camera Server...
+2025-12-04 15:24:10.081 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70f730972ae0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 15:24:10.081 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 15:24:10.082 | INFO     | __main__:start_server:348 - HTTP server started on 0.0.0.0:8555
+2025-12-04 15:24:10.082 | INFO     | __main__:start_server:351 - Camera server started with 0 cameras
+2025-12-04 15:24:10.082 | INFO     | __main__:stop_server:372 - Camera server stopped
+2025-12-04 15:26:32.634 | INFO     | __main__:start_server:328 - Starting Camera Server...
+2025-12-04 15:26:32.634 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7d0c9f23e120>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 15:26:32.635 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 15:26:32.635 | INFO     | __main__:start_server:348 - HTTP server started on 0.0.0.0:8555
+2025-12-04 15:26:32.635 | INFO     | __main__:start_server:351 - Camera server started with 0 cameras
+2025-12-04 15:26:32.635 | WARNING  | __main__:start_server:354 - No cameras initialized. Server will run with HTTP API only.
+2025-12-04 15:26:32.635 | INFO     | __main__:stop_server:382 - Camera server stopped
+2025-12-04 15:42:46.556 | INFO     | __main__:start_server:328 - Starting Camera Server...
+2025-12-04 15:42:46.557 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x741ac5b29250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 15:42:46.557 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 15:42:46.557 | INFO     | __main__:start_server:348 - HTTP server started on 0.0.0.0:8555
+2025-12-04 15:42:46.558 | INFO     | __main__:start_server:351 - Camera server started with 0 cameras
+2025-12-04 15:42:46.558 | WARNING  | __main__:start_server:354 - No cameras initialized. Server will run with HTTP API only.
+2025-12-04 15:42:46.558 | INFO     | __main__:start_server:358 - Server running. Press Ctrl+C to stop.
+2025-12-04 16:08:17.074 | INFO     | __main__:stop_server:380 - Camera server stopped
+2025-12-04 16:12:43.192 | INFO     | __main__:start_server:328 - Starting Camera Server...
+2025-12-04 16:12:43.193 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x702c39e386b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:12:43.193 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 16:12:43.193 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam2?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x702c397cb8f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:12:43.193 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 16:12:43.194 | INFO     | __main__:start_server:348 - HTTP server started on 0.0.0.0:8555
+2025-12-04 16:12:43.194 | INFO     | __main__:start_server:351 - Camera server started with 0 cameras
+2025-12-04 16:12:43.194 | WARNING  | __main__:start_server:354 - No cameras initialized. Server will run with HTTP API only.
+2025-12-04 16:12:43.194 | INFO     | __main__:start_server:358 - Server running. Press Ctrl+C to stop.
+2025-12-04 16:12:51.309 | INFO     | __main__:stop_server:380 - Camera server stopped
+2025-12-04 16:29:40.065 | INFO     | __main__:start_server:328 - Starting Camera Server...
+2025-12-04 16:29:40.066 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam1?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72c9a1fe0dd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:29:40.066 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 16:29:40.067 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/your_group_key_here/configureMonitor/cam2?key=your_api_key_here&group=your_group_key_here (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72c9741db9b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:29:40.067 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 16:29:40.067 | INFO     | __main__:start_server:348 - HTTP server started on 0.0.0.0:8555
+2025-12-04 16:29:40.067 | INFO     | __main__:start_server:351 - Camera server started with 0 cameras
+2025-12-04 16:29:40.067 | WARNING  | __main__:start_server:354 - No cameras initialized. Server will run with HTTP API only.
+2025-12-04 16:29:40.067 | INFO     | __main__:start_server:358 - Server running. Press Ctrl+C to stop.
+2025-12-04 16:40:43.968 | INFO     | __main__:stop_server:380 - Camera server stopped
+2025-12-04 16:40:45.861 | INFO     | __main__:start_server:332 - Starting Camera Server...
+2025-12-04 16:40:45.862 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam1?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x766ee82e9cd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:40:45.862 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 16:40:47.037 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam1: Unknown error: Sender not Authorized
+2025-12-04 16:40:47.038 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam2?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x766ee7a7d130>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:40:47.038 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 16:40:47.111 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam2: Unknown error: Sender not Authorized
+2025-12-04 16:40:49.331 | INFO     | __main__:start_processing:54 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 16:40:49.455 | ERROR    | __main__:start_processing:47 - Failed to open RTSP stream for camera cam2
+2025-12-04 16:40:49.457 | INFO     | __main__:start_server:352 - HTTP server started on 0.0.0.0:8555
+2025-12-04 16:40:49.457 | INFO     | __main__:start_server:355 - Camera server started with 2 cameras
+2025-12-04 16:40:49.457 | INFO     | __main__:start_server:362 - Server running. Press Ctrl+C to stop.
+2025-12-04 16:40:54.523 | ERROR    | __main__:start_processing:47 - Failed to open RTSP stream for camera cam2
+2025-12-04 16:40:59.578 | ERROR    | __main__:start_processing:47 - Failed to open RTSP stream for camera cam2
+2025-12-04 16:41:02.287 | INFO     | __main__:stop_server:384 - Camera server stopped
+2025-12-04 16:42:17.360 | INFO     | __main__:start_server:341 - Starting Camera Server...
+2025-12-04 16:42:17.361 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam1?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x776e53eea000>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:42:17.361 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 16:42:17.425 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam1: Unknown error: Sender not Authorized
+2025-12-04 16:42:17.426 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam2?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x776e53679700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:42:17.426 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 16:42:17.470 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam2: Unknown error: Sender not Authorized
+2025-12-04 16:42:17.470 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 16:42:18.734 | INFO     | __main__:start_processing:63 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 16:42:18.756 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111/stream
+2025-12-04 16:42:18.833 | ERROR    | __main__:start_processing:56 - Failed to open RTSP stream for camera cam2 (URL: rtsp://admin:Aragats777@192.168.0.21:1111/stream)
+2025-12-04 16:42:18.836 | INFO     | __main__:start_server:361 - HTTP server started on 0.0.0.0:8555
+2025-12-04 16:42:18.836 | INFO     | __main__:start_server:364 - Camera server started with 2 cameras
+2025-12-04 16:42:18.836 | INFO     | __main__:start_server:371 - Server running. Press Ctrl+C to stop.
+2025-12-04 16:42:23.834 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111/stream
+2025-12-04 16:42:23.914 | ERROR    | __main__:start_processing:56 - Failed to open RTSP stream for camera cam2 (URL: rtsp://admin:Aragats777@192.168.0.21:1111/stream)
+2025-12-04 16:42:25.334 | INFO     | __main__:stop_server:393 - Camera server stopped
+2025-12-04 16:45:17.167 | INFO     | __main__:start_server:341 - Starting Camera Server...
+2025-12-04 16:45:17.167 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam1?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ba5c4636900>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:45:17.168 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 16:45:17.221 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam1: Unknown error: Sender not Authorized
+2025-12-04 16:45:17.221 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam2?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ba5c3e76360>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:45:17.221 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 16:45:17.257 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam2: Unknown error: Sender not Authorized
+2025-12-04 16:45:17.258 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 16:45:18.451 | INFO     | __main__:start_processing:63 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 16:45:18.470 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 16:45:19.675 | INFO     | __main__:start_processing:63 - Started processing camera cam2 at 100.0 FPS
+2025-12-04 16:45:19.706 | INFO     | __main__:start_server:361 - HTTP server started on 0.0.0.0:8555
+2025-12-04 16:45:19.707 | INFO     | __main__:start_server:364 - Camera server started with 2 cameras
+2025-12-04 16:45:19.707 | INFO     | __main__:start_server:371 - Server running. Press Ctrl+C to stop.
+2025-12-04 16:45:41.500 | INFO     | __main__:stop_server:393 - Camera server stopped
+2025-12-04 16:45:58.680 | INFO     | __main__:start_server:341 - Starting Camera Server...
+2025-12-04 16:45:58.681 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam1?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7334abceb0e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:45:58.681 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 16:45:58.741 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam1: Unknown error: Sender not Authorized
+2025-12-04 16:45:58.742 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam2?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7334ab4796d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 16:45:58.742 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 16:45:58.775 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam2: Unknown error: Sender not Authorized
+2025-12-04 16:45:58.775 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 16:45:59.991 | INFO     | __main__:start_processing:63 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 16:46:00.012 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 16:46:01.177 | INFO     | __main__:start_processing:63 - Started processing camera cam2 at 100.0 FPS
+2025-12-04 16:46:01.212 | INFO     | __main__:start_server:361 - HTTP server started on 0.0.0.0:8555
+2025-12-04 16:46:01.212 | INFO     | __main__:start_server:364 - Camera server started with 2 cameras
+2025-12-04 16:46:01.212 | INFO     | __main__:start_server:371 - Server running. Press Ctrl+C to stop.
+2025-12-04 16:47:00.197 | INFO     | __main__:_save_segment:185 - Attempting to save segment for camera cam1
+2025-12-04 16:47:01.223 | INFO     | __main__:_save_segment:185 - Attempting to save segment for camera cam2
+2025-12-04 17:31:40.452 | INFO     | __main__:start_server:341 - Starting Camera Server...
+2025-12-04 17:31:40.454 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam1?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dc2642f1c10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 17:31:40.454 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 17:31:40.525 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam1: Unknown error: Sender not Authorized
+2025-12-04 17:31:40.526 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam2?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dc263a850a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 17:31:40.526 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 17:31:40.561 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam2: Unknown error: Sender not Authorized
+2025-12-04 17:31:40.561 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 17:31:44.870 | INFO     | __main__:start_processing:63 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 17:31:44.898 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 17:31:46.068 | INFO     | __main__:start_processing:63 - Started processing camera cam2 at 100.0 FPS
+2025-12-04 17:31:46.100 | INFO     | __main__:start_server:361 - HTTP server started on 0.0.0.0:8555
+2025-12-04 17:31:46.100 | INFO     | __main__:start_server:364 - Camera server started with 2 cameras
+2025-12-04 17:31:46.100 | INFO     | __main__:start_server:371 - Server running. Press Ctrl+C to stop.
+2025-12-04 17:32:45.120 | INFO     | __main__:_save_segment:185 - Attempting to save segment for camera cam1
+2025-12-04 17:32:46.117 | INFO     | __main__:_save_segment:185 - Attempting to save segment for camera cam2
+2025-12-04 17:34:03.933 | INFO     | __main__:start_server:341 - Starting Camera Server...
+2025-12-04 17:34:03.935 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam1?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72df32b6ef00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 17:34:03.935 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 17:34:04.003 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam1: Unknown error: Sender not Authorized
+2025-12-04 17:34:04.004 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam2?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72df32a72120>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 17:34:04.004 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 17:34:04.039 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam2: Unknown error: Sender not Authorized
+2025-12-04 17:34:04.039 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 17:34:05.249 | INFO     | __main__:start_processing:63 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 17:34:05.278 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 17:34:06.427 | INFO     | __main__:start_processing:63 - Started processing camera cam2 at 100.0 FPS
+2025-12-04 17:34:06.462 | INFO     | __main__:start_server:361 - HTTP server started on 0.0.0.0:8555
+2025-12-04 17:34:06.462 | INFO     | __main__:start_server:364 - Camera server started with 2 cameras
+2025-12-04 17:34:06.462 | INFO     | __main__:start_server:371 - Server running. Press Ctrl+C to stop.
+2025-12-04 17:34:25.224 | WARNING  | __main__:start_processing:70 - Failed to read frame from camera cam1 (URL: rtsp://admin:Aragats777@192.168.0.21:3333/stream)
+2025-12-04 17:34:25.226 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 17:34:26.393 | INFO     | __main__:start_processing:63 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 17:35:05.325 | INFO     | __main__:_save_segment:185 - Attempting to save segment for camera cam1
+2025-12-04 17:35:06.476 | INFO     | __main__:_save_segment:185 - Attempting to save segment for camera cam2
+2025-12-04 17:35:06.917 | INFO     | __main__:_save_segment:220 - Saved segment: ./recordings/cam1/2025-12-04/17/segment_17-34-05.mp4
+2025-12-04 17:53:07.145 | INFO     | __main__:start_server:352 - Starting Camera Server...
+2025-12-04 17:53:07.147 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam1?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7d4e64f50ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 17:53:07.147 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 17:53:07.219 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam1: Unknown error: Sender not Authorized
+2025-12-04 17:53:07.219 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam2?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7d4e64685bb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 17:53:07.219 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 17:53:07.255 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam2: Unknown error: Sender not Authorized
+2025-12-04 17:53:07.256 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 17:53:08.421 | INFO     | __main__:start_processing:66 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 17:53:08.450 | INFO     | __main__:start_processing:44 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 17:53:09.571 | INFO     | __main__:start_processing:66 - Started processing camera cam2 at 100.0 FPS
+2025-12-04 17:53:09.603 | INFO     | __main__:start_server:372 - HTTP server started on 0.0.0.0:8555
+2025-12-04 17:53:09.603 | INFO     | __main__:start_server:375 - Camera server started with 2 cameras
+2025-12-04 17:53:09.603 | INFO     | __main__:start_server:382 - Server running. Press Ctrl+C to stop.
+2025-12-04 17:53:12.324 | INFO     | __main__:_handle_continuous_recording:107 - current_segment_frames size for cam2: 100
+2025-12-04 17:53:15.665 | INFO     | __main__:_handle_continuous_recording:107 - current_segment_frames size for cam2: 200
+2025-12-04 17:53:18.991 | INFO     | __main__:_handle_continuous_recording:107 - current_segment_frames size for cam2: 300
+2025-12-04 17:53:20.824 | INFO     | __main__:_handle_continuous_recording:107 - current_segment_frames size for cam1: 100
+2025-12-04 17:53:22.335 | INFO     | __main__:_handle_continuous_recording:107 - current_segment_frames size for cam2: 400
+2025-12-04 17:53:25.666 | INFO     | __main__:_handle_continuous_recording:107 - current_segment_frames size for cam2: 500
+2025-12-04 17:53:29.009 | INFO     | __main__:_handle_continuous_recording:107 - current_segment_frames size for cam2: 600
+2025-12-04 17:53:32.332 | INFO     | __main__:_handle_continuous_recording:107 - current_segment_frames size for cam2: 700
+2025-12-04 17:53:33.211 | INFO     | __main__:_handle_continuous_recording:107 - current_segment_frames size for cam1: 200
+2025-12-04 17:53:35.666 | INFO     | __main__:_handle_continuous_recording:107 - current_segment_frames size for cam2: 800
+2025-12-04 17:53:37.670 | INFO     | __main__:stop_server:404 - Camera server stopped
+2025-12-04 17:55:35.945 | INFO     | __main__:start_server:343 - Starting Camera Server...
+2025-12-04 17:55:35.946 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam1?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x76e0ab7da4b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 17:55:35.946 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 17:55:36.001 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam1: Unknown error: Sender not Authorized
+2025-12-04 17:55:36.001 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam2?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x76e0ab680b60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 17:55:36.001 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 17:55:36.035 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam2: Unknown error: Sender not Authorized
+2025-12-04 17:55:36.035 | INFO     | __main__:start_processing:48 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 17:55:37.233 | INFO     | __main__:start_processing:72 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 17:55:37.301 | INFO     | __main__:_start_new_segment_writer:205 - Started new segment file: ./recordings/cam1/2025-12-04/17/segment_17-55-37.mp4
+2025-12-04 17:55:37.319 | INFO     | __main__:start_processing:48 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 17:55:38.419 | INFO     | __main__:start_processing:72 - Started processing camera cam2 at 30 FPS
+2025-12-04 17:55:38.420 | INFO     | __main__:_start_new_segment_writer:205 - Started new segment file: ./recordings/cam2/2025-12-04/17/segment_17-55-38.mp4
+2025-12-04 17:55:38.447 | INFO     | __main__:start_server:363 - HTTP server started on 0.0.0.0:8555
+2025-12-04 17:55:38.447 | INFO     | __main__:start_server:366 - Camera server started with 2 cameras
+2025-12-04 17:55:38.447 | INFO     | __main__:start_server:373 - Server running. Press Ctrl+C to stop.
+2025-12-04 17:55:45.525 | INFO     | __main__:stop_server:395 - Camera server stopped
+2025-12-04 17:57:20.781 | INFO     | __main__:start_server:342 - Starting Camera Server...
+2025-12-04 17:57:20.782 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam1?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x76d2427163c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 17:57:20.782 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 17:57:20.836 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam1: Unknown error: Sender not Authorized
+2025-12-04 17:57:20.837 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam2?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x76d241c74680>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 17:57:20.837 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 17:57:20.876 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam2: Unknown error: Sender not Authorized
+2025-12-04 17:57:20.876 | INFO     | __main__:start_processing:48 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 17:57:22.037 | INFO     | __main__:start_processing:72 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 17:57:22.057 | INFO     | __main__:_start_new_segment_writer:204 - Started new segment file: ./recordings/cam1/2025-12-04/17/segment_17-57-22.mp4
+2025-12-04 17:57:22.122 | INFO     | __main__:start_processing:48 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 17:57:23.361 | INFO     | __main__:start_processing:72 - Started processing camera cam2 at 30 FPS
+2025-12-04 17:57:23.391 | INFO     | __main__:_start_new_segment_writer:204 - Started new segment file: ./recordings/cam2/2025-12-04/17/segment_17-57-23.mp4
+2025-12-04 17:57:23.422 | INFO     | __main__:start_server:362 - HTTP server started on 0.0.0.0:8555
+2025-12-04 17:57:23.422 | INFO     | __main__:start_server:365 - Camera server started with 2 cameras
+2025-12-04 17:57:23.422 | INFO     | __main__:start_server:372 - Server running. Press Ctrl+C to stop.
+2025-12-04 17:58:12.435 | INFO     | __main__:stop_server:394 - Camera server stopped
+2025-12-04 18:01:23.426 | INFO     | __main__:start_server:352 - Starting Camera Server...
+2025-12-04 18:01:23.428 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam1?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70d17956dcd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 18:01:23.428 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam1 to Shinobi
+2025-12-04 18:01:23.488 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam1: Unknown error: Sender not Authorized
+2025-12-04 18:01:23.489 | ERROR    | shinobi_client:_make_request:40 - Shinobi API request failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/REPLACE_WITH_YOUR_REAL_GROUP_KEY/configureMonitor/cam2?key=REPLACE_WITH_YOUR_REAL_API_KEY&group=REPLACE_WITH_YOUR_REAL_GROUP_KEY (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x70d179471b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-12-04 18:01:23.489 | ERROR    | shinobi_client:add_monitor:72 - Failed to add monitor cam2 to Shinobi
+2025-12-04 18:01:23.524 | ERROR    | onvif_events:connect:36 - Failed to connect to ONVIF camera cam2: Unknown error: Sender not Authorized
+2025-12-04 18:01:23.524 | INFO     | __main__:start_processing:49 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 18:01:24.694 | INFO     | __main__:start_processing:73 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 18:01:24.716 | INFO     | __main__:_start_new_segment_writer:214 - Started new segment file: ./recordings/cam1/2025-12-04/18/segment_18-01-24.mp4
+2025-12-04 18:01:24.724 | INFO     | __main__:start_processing:101 - ThreadPoolExecutor queue size: 0
+2025-12-04 18:01:24.724 | ERROR    | __main__:start_processing:121 - Error processing camera cam1: cannot access local variable 'frame' where it is not associated with a value
+2025-12-04 18:01:24.724 | INFO     | __main__:start_processing:49 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 18:01:25.821 | INFO     | __main__:start_processing:73 - Started processing camera cam2 at 30 FPS
+2025-12-04 18:01:25.860 | INFO     | __main__:_start_new_segment_writer:214 - Started new segment file: ./recordings/cam2/2025-12-04/18/segment_18-01-25.mp4
+2025-12-04 18:01:25.874 | INFO     | __main__:start_processing:101 - ThreadPoolExecutor queue size: 0
+2025-12-04 18:01:25.874 | ERROR    | __main__:start_processing:121 - Error processing camera cam2: cannot access local variable 'frame' where it is not associated with a value
+2025-12-04 18:01:25.875 | INFO     | __main__:start_server:372 - HTTP server started on 0.0.0.0:8555
+2025-12-04 18:01:25.875 | INFO     | __main__:start_server:375 - Camera server started with 2 cameras
+2025-12-04 18:01:25.875 | INFO     | __main__:start_server:382 - Server running. Press Ctrl+C to stop.
+2025-12-04 18:01:29.725 | INFO     | __main__:start_processing:49 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 18:01:30.924 | INFO     | __main__:start_processing:73 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 18:01:30.934 | INFO     | __main__:_start_new_segment_writer:214 - Started new segment file: ./recordings/cam1/2025-12-04/18/segment_18-01-30.mp4
+2025-12-04 18:01:30.939 | INFO     | __main__:start_processing:101 - ThreadPoolExecutor queue size: 0
+2025-12-04 18:01:30.939 | ERROR    | __main__:start_processing:121 - Error processing camera cam1: cannot access local variable 'frame' where it is not associated with a value
+2025-12-04 18:01:30.939 | INFO     | __main__:start_processing:49 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 18:01:32.203 | INFO     | __main__:start_processing:73 - Started processing camera cam2 at 30 FPS
+2025-12-04 18:01:32.221 | INFO     | __main__:_start_new_segment_writer:214 - Started new segment file: ./recordings/cam2/2025-12-04/18/segment_18-01-32.mp4
+2025-12-04 18:01:32.229 | INFO     | __main__:start_processing:101 - ThreadPoolExecutor queue size: 0
+2025-12-04 18:01:32.229 | ERROR    | __main__:start_processing:121 - Error processing camera cam2: cannot access local variable 'frame' where it is not associated with a value
+2025-12-04 18:01:35.940 | INFO     | __main__:start_processing:49 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 18:01:37.134 | INFO     | __main__:start_processing:73 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 18:01:37.142 | INFO     | __main__:_start_new_segment_writer:214 - Started new segment file: ./recordings/cam1/2025-12-04/18/segment_18-01-37.mp4
+2025-12-04 18:01:37.146 | INFO     | __main__:start_processing:101 - ThreadPoolExecutor queue size: 0
+2025-12-04 18:01:37.146 | ERROR    | __main__:start_processing:121 - Error processing camera cam1: cannot access local variable 'frame' where it is not associated with a value
+2025-12-04 18:01:37.230 | INFO     | __main__:start_processing:49 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 18:01:38.403 | INFO     | __main__:start_processing:73 - Started processing camera cam2 at 30 FPS
+2025-12-04 18:01:38.420 | INFO     | __main__:_start_new_segment_writer:214 - Started new segment file: ./recordings/cam2/2025-12-04/18/segment_18-01-38.mp4
+2025-12-04 18:01:38.426 | INFO     | __main__:start_processing:101 - ThreadPoolExecutor queue size: 0
+2025-12-04 18:01:38.426 | ERROR    | __main__:start_processing:121 - Error processing camera cam2: cannot access local variable 'frame' where it is not associated with a value
+2025-12-04 18:01:42.148 | INFO     | __main__:start_processing:49 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 18:01:43.350 | INFO     | __main__:start_processing:73 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 18:01:43.358 | INFO     | __main__:_start_new_segment_writer:214 - Started new segment file: ./recordings/cam1/2025-12-04/18/segment_18-01-43.mp4
+2025-12-04 18:01:43.363 | INFO     | __main__:start_processing:101 - ThreadPoolExecutor queue size: 0
+2025-12-04 18:01:43.363 | ERROR    | __main__:start_processing:121 - Error processing camera cam1: cannot access local variable 'frame' where it is not associated with a value
+2025-12-04 18:01:43.427 | INFO     | __main__:start_processing:49 - Opening RTSP stream for camera cam2: rtsp://admin:Aragats777@192.168.0.21:1111
+2025-12-04 18:01:44.664 | INFO     | __main__:start_processing:73 - Started processing camera cam2 at 30 FPS
+2025-12-04 18:01:44.682 | INFO     | __main__:_start_new_segment_writer:214 - Started new segment file: ./recordings/cam2/2025-12-04/18/segment_18-01-44.mp4
+2025-12-04 18:01:44.689 | INFO     | __main__:start_processing:101 - ThreadPoolExecutor queue size: 0
+2025-12-04 18:01:44.689 | ERROR    | __main__:start_processing:121 - Error processing camera cam2: cannot access local variable 'frame' where it is not associated with a value
+2025-12-04 18:01:48.364 | INFO     | __main__:start_processing:49 - Opening RTSP stream for camera cam1: rtsp://admin:Aragats777@192.168.0.21:3333/stream
+2025-12-04 18:01:49.502 | INFO     | __main__:start_processing:73 - Started processing camera cam1 at 25.0 FPS
+2025-12-04 18:01:49.510 | INFO     | __main__:_start_new_segment_writer:214 - Started new segment file: ./recordings/cam1/2025-12-04/18/segment_18-01-49.mp4
+2025-12-04 18:01:49.514 | INFO     | __main__:start_processing:101 - ThreadPoolExecutor queue size: 0
+2025-12-04 18:01:49.514 | ERROR    | __main__:start_processing:121 - Error processing camera cam1: cannot access local variable 'frame' where it is not associated with a value
+2025-12-04 18:01:49.514 | INFO     | __main__:stop_server:404 - Camera server stopped
