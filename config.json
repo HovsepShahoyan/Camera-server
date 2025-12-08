@@ -1,8 +1,8 @@
 {
   "shinobi": {
     "base_url": "http://localhost:8080",
-    "api_key": "REPLACE_WITH_YOUR_REAL_API_KEY",
-    "group_key": "REPLACE_WITH_YOUR_REAL_GROUP_KEY"
+    "api_key": "ynKZEwCmeGDJE3Y28ySkPKrata2x3N",
+    "group_key": "hs1234"
   },
   "cameras": [
     {
