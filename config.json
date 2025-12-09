@@ -21,12 +21,14 @@
       "username": "admin",
       "password": "Aragats777"
     }
-  ],
+  ], 
   "recording": {
     "base_dir": "./recordings",
     "segment_duration": 60,
     "pre_event_buffer": 60,
-    "post_event_duration": 60
+    "post_event_duration": 60,
+    "continuous_retention_days": 7,
+    "cleanup_interval_hours": 24
   },
   "server": {
     "host": "0.0.0.0",
